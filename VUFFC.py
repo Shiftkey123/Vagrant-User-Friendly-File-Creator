@@ -1,5 +1,5 @@
 #Vagrant User Friendly File Creator
-#Created by: Austin Schuller, 2023
+#Created by: Shiftkey, 2023
 #Version: 1.0.0
 #Last Update: 9/29/23
 
